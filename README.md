@@ -32,7 +32,7 @@ The script performs the following steps:
 ## Example
 
 ```bash
-$ python decryptor.py
+$ python main.py
 Enter the directory path: /path/to/encrypted/files
 Enter the decryption key: my_secret_key
 Decryption successful.
